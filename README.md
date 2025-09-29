@@ -19,7 +19,7 @@ A system with a python installed.
 
 Step 1 - > Clone this repo .
 ```bash
-git clone https://github.com/surendra-26pop/3pop-wbt
+git clone https://github.com/surendrasonusep26/3pop-wbt
 ```
 Step 2 - >  Go to 3pop-wbt dir , or copy one by one below commands.
 ```bash
