@@ -30,4 +30,4 @@ Step 3 - > To run .
 ```bash
 python main.py
 ```
-Support me , Buy me CoFFee.
+BUy Samosa, I'll have CoFFEe.
